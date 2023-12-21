@@ -45,7 +45,7 @@ const AboutPage = () => {
       {/* Mission, Vision, Values Sections */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Mission Section */}
-        <div className="bg-white p-6 rounded-md shadow-lg hover:shadow-2xl transition duration-300 hover:bg-rgb(255, 214, 170)">
+        <div className="bg-white p-6 rounded-md shadow-lg hover:shadow-2xl transition duration-300 hover:bg-[#128F8B]">
           <h2 className="text-xl font-semibold mb-4">Mission</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
@@ -54,7 +54,7 @@ const AboutPage = () => {
         </div>
 
         {/* Vision Section */}
-        <div className="bg-white p-6 rounded-md shadow-lg hover:shadow-2xl transition duration-300 hover:bg-rgb(173, 216, 230)">
+        <div className="bg-white p-6 rounded-md shadow-lg hover:shadow-2xl transition duration-300 hover:bg-[#128F8B]">
           <h2 className="text-xl font-semibold mb-4">Vision</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
@@ -63,7 +63,7 @@ const AboutPage = () => {
         </div>
 
         {/* Values Section */}
-        <div className="bg-white p-6 rounded-md shadow-lg hover:shadow-2xl transition duration-300 hover:bg-rgb(144, 238, 144)">
+        <div className="bg-white p-6 rounded-md shadow-lg hover:shadow-2xl transition duration-300 hover:bg-[#128F8B]">
           <h2 className="text-xl font-semibold mb-4">Values</h2>
           <ul>
             <li className="mb-2 flex">
